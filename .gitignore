@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+tools/vision_ocr
+.streamlit/secrets.toml
+.env
+.DS_Store

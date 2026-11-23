@@ -1,0 +1,1347 @@
+{
+  "scope": "Every 3503rd supplied row starting at 1. Full or shortened typed titles. Source row ID is the expected result. Duplicate names can have different IDs. These are catalogue checks, not OCR or clinical accuracy.",
+  "totals": {
+    "full_heading_n": 73,
+    "full_heading_top1": 73,
+    "full_heading_top5": 73,
+    "short_heading_n": 73,
+    "short_heading_top1": 58,
+    "short_heading_top5": 60
+  },
+  "controls": {
+    "Dolo 650\nParacetamol 500 mg": {
+      "returned": [],
+      "passed": true
+    },
+    "Dolo 650\nParacetamol 650 mcg": {
+      "returned": [],
+      "passed": true
+    },
+    "Dolo 650\nIbuprofen 650 mg": {
+      "returned": [],
+      "passed": true
+    },
+    "Azithral 500 Injection": {
+      "returned": [
+        "med_668"
+      ],
+      "passed": true
+    },
+    "Unlistedxyz 91 Tablet": {
+      "returned": [],
+      "passed": true
+    },
+    "Arpimune record without an identity-matched use": {
+      "passed": true
+    }
+  },
+  "cases": [
+    {
+      "kind": "full_heading",
+      "query": "Augmentin 625 Duo Tablet",
+      "expected": "med_1",
+      "rank": 1,
+      "top5": [
+        "med_1"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Augmentin 625 Duo",
+      "expected": "med_1",
+      "rank": 1,
+      "top5": [
+        "med_1"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Arminol 40mg Tablet",
+      "expected": "med_3504",
+      "rank": 1,
+      "top5": [
+        "med_3504"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Arminol 40mg",
+      "expected": "med_3504",
+      "rank": 1,
+      "top5": [
+        "med_3504"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Acgel-CL Nano Gel",
+      "expected": "med_7007",
+      "rank": 1,
+      "top5": [
+        "med_7007"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Acgel-CL Nano",
+      "expected": "med_7007",
+      "rank": 1,
+      "top5": [
+        "med_7007",
+        "med_9223",
+        "med_13865"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Asmygaba-M Tablet",
+      "expected": "med_10510",
+      "rank": 1,
+      "top5": [
+        "med_10510"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Asmygaba-M",
+      "expected": "med_10510",
+      "rank": 1,
+      "top5": [
+        "med_10510"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Azilet 200mg/5ml Suspension",
+      "expected": "med_14013",
+      "rank": 1,
+      "top5": [
+        "med_14013"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Azilet 200mg/5ml",
+      "expected": "med_14013",
+      "rank": 1,
+      "top5": [
+        "med_14013"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Arycin 200mg Syrup",
+      "expected": "med_17516",
+      "rank": 1,
+      "top5": [
+        "med_17516"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Arycin 200mg",
+      "expected": "med_17516",
+      "rank": 1,
+      "top5": [
+        "med_17516"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Amoxrel-CV Dry Syrup",
+      "expected": "med_21019",
+      "rank": 1,
+      "top5": [
+        "med_21019"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Amoxrel-CV Dry",
+      "expected": "med_21019",
+      "rank": 1,
+      "top5": [
+        "med_21019",
+        "med_19196"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Armother L 80mg/480mg Tablet",
+      "expected": "med_24522",
+      "rank": 1,
+      "top5": [
+        "med_24522"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Armother L 80mg/480mg",
+      "expected": "med_24522",
+      "rank": 1,
+      "top5": [
+        "med_24522"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Brutacef 100mg Tablet",
+      "expected": "med_28025",
+      "rank": 1,
+      "top5": [
+        "med_28025"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Brutacef 100mg",
+      "expected": "med_28025",
+      "rank": 1,
+      "top5": [
+        "med_28025"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Bicuff-DP Syrup Sugar Free",
+      "expected": "med_31528",
+      "rank": 1,
+      "top5": [
+        "med_31528"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Bicuff-DP Syrup Sugar",
+      "expected": "med_31528",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Cold Plus Syrup",
+      "expected": "med_35031",
+      "rank": 1,
+      "top5": [
+        "med_35031"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Cold Plus",
+      "expected": "med_35031",
+      "rank": 1,
+      "top5": [
+        "med_35031",
+        "med_37416"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Cefodome 200 DT Tablet",
+      "expected": "med_38534",
+      "rank": 1,
+      "top5": [
+        "med_38534"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Cefodome 200 DT",
+      "expected": "med_38534",
+      "rank": 1,
+      "top5": [
+        "med_38534"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Clomin 20 mg/500 mg Drop",
+      "expected": "med_42037",
+      "rank": 1,
+      "top5": [
+        "med_42037"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Clomin 20 mg/500 mg",
+      "expected": "med_42037",
+      "rank": null,
+      "top5": [
+        "med_34493"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Casfungen 70mg Injection",
+      "expected": "med_45540",
+      "rank": 1,
+      "top5": [
+        "med_45540"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Casfungen 70mg",
+      "expected": "med_45540",
+      "rank": 1,
+      "top5": [
+        "med_45540"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Cypohale Syrup",
+      "expected": "med_49043",
+      "rank": 1,
+      "top5": [
+        "med_49043"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Cypohale",
+      "expected": "med_49043",
+      "rank": 1,
+      "top5": [
+        "med_49043"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Cantonerv 2500mcg Injection",
+      "expected": "med_52546",
+      "rank": 1,
+      "top5": [
+        "med_52546"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Cantonerv 2500mcg",
+      "expected": "med_52546",
+      "rank": 1,
+      "top5": [
+        "med_52546"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "CEFURONAT 250MG TABLET",
+      "expected": "med_56049",
+      "rank": 1,
+      "top5": [
+        "med_56049"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "CEFURONAT 250MG",
+      "expected": "med_56049",
+      "rank": 1,
+      "top5": [
+        "med_56049"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "D Par 50mg/325mg Tablet",
+      "expected": "med_59552",
+      "rank": 1,
+      "top5": [
+        "med_59552"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "D Par 50mg/325mg",
+      "expected": "med_59552",
+      "rank": 1,
+      "top5": [
+        "med_59552"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Doecal-Z Soft Gelatin Capsule",
+      "expected": "med_63055",
+      "rank": 1,
+      "top5": [
+        "med_63055"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Doecal-Z Soft Gelatin",
+      "expected": "med_63055",
+      "rank": 1,
+      "top5": [
+        "med_63055"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Delnil 10mg Tablet",
+      "expected": "med_66558",
+      "rank": 1,
+      "top5": [
+        "med_66558"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Delnil 10mg",
+      "expected": "med_66558",
+      "rank": 1,
+      "top5": [
+        "med_66558"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Dimyclox 250mg/250mg Capsule",
+      "expected": "med_70061",
+      "rank": 1,
+      "top5": [
+        "med_70061"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Dimyclox 250mg/250mg",
+      "expected": "med_70061",
+      "rank": 1,
+      "top5": [
+        "med_70061"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Eldasid Mps Syrup Mint",
+      "expected": "med_73564",
+      "rank": 1,
+      "top5": [
+        "med_73564"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Eldasid Mps Syrup",
+      "expected": "med_73564",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Ethiflox 200mg Tablet",
+      "expected": "med_77067",
+      "rank": 1,
+      "top5": [
+        "med_77067"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Ethiflox 200mg",
+      "expected": "med_77067",
+      "rank": 1,
+      "top5": [
+        "med_77067",
+        "med_83297"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Equipam 2mg Tablet",
+      "expected": "med_80570",
+      "rank": 1,
+      "top5": [
+        "med_80570"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Equipam 2mg",
+      "expected": "med_80570",
+      "rank": 1,
+      "top5": [
+        "med_80570"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Frisium 10mg Tablet",
+      "expected": "med_84073",
+      "rank": 1,
+      "top5": [
+        "med_84073"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Frisium 10mg",
+      "expected": "med_84073",
+      "rank": 1,
+      "top5": [
+        "med_84073"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Flucol Eye Drop",
+      "expected": "med_87576",
+      "rank": 1,
+      "top5": [
+        "med_87576"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Flucol Eye",
+      "expected": "med_87576",
+      "rank": null,
+      "top5": [
+        "med_86699",
+        "med_84591",
+        "med_86440"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Fexolop M 10mg/120mg Tablet",
+      "expected": "med_91079",
+      "rank": 1,
+      "top5": [
+        "med_91079"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Fexolop M 10mg/120mg",
+      "expected": "med_91079",
+      "rank": 1,
+      "top5": [
+        "med_91079"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Glycinorm-M 30 OD Tablet ER",
+      "expected": "med_94582",
+      "rank": 1,
+      "top5": [
+        "med_94582"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Glycinorm-M 30 OD Tablet",
+      "expected": "med_94582",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Gabamak 300mg/500mcg Tablet",
+      "expected": "med_98085",
+      "rank": 1,
+      "top5": [
+        "med_98085"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Gabamak 300mg/500mcg",
+      "expected": "med_98085",
+      "rank": 1,
+      "top5": [
+        "med_98085"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Glimbase-M1 Tablet PR",
+      "expected": "med_101588",
+      "rank": 1,
+      "top5": [
+        "med_101588"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Glimbase-M1 Tablet",
+      "expected": "med_101588",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Hyheal Tablet",
+      "expected": "med_105091",
+      "rank": 1,
+      "top5": [
+        "med_105091"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Hyheal",
+      "expected": "med_105091",
+      "rank": 1,
+      "top5": [
+        "med_105091"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Itrabest -DS Capsule",
+      "expected": "med_108594",
+      "rank": 1,
+      "top5": [
+        "med_108594"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Itrabest -DS",
+      "expected": "med_108594",
+      "rank": 1,
+      "top5": [
+        "med_108594"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Indukt C 100mg Tablet",
+      "expected": "med_112097",
+      "rank": 1,
+      "top5": [
+        "med_112097"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Indukt C 100mg",
+      "expected": "med_112097",
+      "rank": 1,
+      "top5": [
+        "med_112097"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Jmentin 250mg/125mg Tablet",
+      "expected": "med_115600",
+      "rank": 1,
+      "top5": [
+        "med_115600"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Jmentin 250mg/125mg",
+      "expected": "med_115600",
+      "rank": 1,
+      "top5": [
+        "med_115600"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Kofcube-AX Syrup",
+      "expected": "med_119103",
+      "rank": 1,
+      "top5": [
+        "med_119103"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Kofcube-AX",
+      "expected": "med_119103",
+      "rank": 1,
+      "top5": [
+        "med_119103"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Lutica Cream",
+      "expected": "med_122606",
+      "rank": 1,
+      "top5": [
+        "med_122606"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Lutica",
+      "expected": "med_122606",
+      "rank": 1,
+      "top5": [
+        "med_122606",
+        "med_126487"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Lozin 100mg Tablet",
+      "expected": "med_126109",
+      "rank": 1,
+      "top5": [
+        "med_126109"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Lozin 100mg",
+      "expected": "med_126109",
+      "rank": 1,
+      "top5": [
+        "med_126109"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Loromycin 500mg Capsule",
+      "expected": "med_129612",
+      "rank": 1,
+      "top5": [
+        "med_129612"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Loromycin 500mg",
+      "expected": "med_129612",
+      "rank": 1,
+      "top5": [
+        "med_129612"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Leclex-O Oral Suspension",
+      "expected": "med_133115",
+      "rank": 1,
+      "top5": [
+        "med_133115"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Leclex-O Oral",
+      "expected": "med_133115",
+      "rank": 2,
+      "top5": [
+        "med_128006",
+        "med_133115"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Metbeta XL 25 Tablet",
+      "expected": "med_136618",
+      "rank": 1,
+      "top5": [
+        "med_136618"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Metbeta XL 25",
+      "expected": "med_136618",
+      "rank": 1,
+      "top5": [
+        "med_136618"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Mormect 125mg Dry Syrup",
+      "expected": "med_140121",
+      "rank": 1,
+      "top5": [
+        "med_140121"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Mormect 125mg Dry",
+      "expected": "med_140121",
+      "rank": 1,
+      "top5": [
+        "med_140121"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Meroset 1gm Injection",
+      "expected": "med_143624",
+      "rank": 1,
+      "top5": [
+        "med_143624"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Meroset 1gm",
+      "expected": "med_143624",
+      "rank": 1,
+      "top5": [
+        "med_143624"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Mygem 1000mg Injection",
+      "expected": "med_147127",
+      "rank": 1,
+      "top5": [
+        "med_147127"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Mygem 1000mg",
+      "expected": "med_147127",
+      "rank": 1,
+      "top5": [
+        "med_147127"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Newtel-Beta 50 Tablet PR",
+      "expected": "med_150630",
+      "rank": 1,
+      "top5": [
+        "med_150630"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Newtel-Beta 50 Tablet",
+      "expected": "med_150630",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "ND Uric 300mg Tablet",
+      "expected": "med_154133",
+      "rank": 1,
+      "top5": [
+        "med_154133"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "ND Uric 300mg",
+      "expected": "med_154133",
+      "rank": 1,
+      "top5": [
+        "med_154133"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Normacalm Forte 50 mg/2 mg/5 mg Tablet",
+      "expected": "med_157636",
+      "rank": 1,
+      "top5": [
+        "med_157636"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Normacalm Forte 50 mg/2 mg/5 mg",
+      "expected": "med_157636",
+      "rank": 1,
+      "top5": [
+        "med_157636"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Netlift 800 Tablet",
+      "expected": "med_161139",
+      "rank": 1,
+      "top5": [
+        "med_161139"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Netlift 800",
+      "expected": "med_161139",
+      "rank": 1,
+      "top5": [
+        "med_161139"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Oltas A 20 Tablet",
+      "expected": "med_164642",
+      "rank": 1,
+      "top5": [
+        "med_164642"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Oltas A 20",
+      "expected": "med_164642",
+      "rank": 1,
+      "top5": [
+        "med_164642"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Otisafe Eye Drop",
+      "expected": "med_168145",
+      "rank": 1,
+      "top5": [
+        "med_168145"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Otisafe Eye",
+      "expected": "med_168145",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Orchidol 50mg Tablet",
+      "expected": "med_171648",
+      "rank": 1,
+      "top5": [
+        "med_171648"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Orchidol 50mg",
+      "expected": "med_171648",
+      "rank": 2,
+      "top5": [
+        "med_170490",
+        "med_171648"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Propal 10mg Tablet",
+      "expected": "med_175151",
+      "rank": 1,
+      "top5": [
+        "med_175151"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Propal 10mg",
+      "expected": "med_175151",
+      "rank": 1,
+      "top5": [
+        "med_175151"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Pipmed 4000mg/500mg Injection",
+      "expected": "med_178654",
+      "rank": 1,
+      "top5": [
+        "med_178654"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Pipmed 4000mg/500mg",
+      "expected": "med_178654",
+      "rank": 1,
+      "top5": [
+        "med_178654"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Pincip 500mg Tablet",
+      "expected": "med_182157",
+      "rank": 1,
+      "top5": [
+        "med_182157"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Pincip 500mg",
+      "expected": "med_182157",
+      "rank": 1,
+      "top5": [
+        "med_182157"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Rabtab DSR Tablet",
+      "expected": "med_185660",
+      "rank": 1,
+      "top5": [
+        "med_185660"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Rabtab DSR",
+      "expected": "med_185660",
+      "rank": 1,
+      "top5": [
+        "med_185660",
+        "med_187063",
+        "med_195694"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Rabestime 20mg Tablet",
+      "expected": "med_189163",
+      "rank": 1,
+      "top5": [
+        "med_189163"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Rabestime 20mg",
+      "expected": "med_189163",
+      "rank": 1,
+      "top5": [
+        "med_189163"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Racia P 100mg/325mg Tablet",
+      "expected": "med_192666",
+      "rank": 1,
+      "top5": [
+        "med_192666"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Racia P 100mg/325mg",
+      "expected": "med_192666",
+      "rank": 1,
+      "top5": [
+        "med_192666"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Redidrop 500mg Tablet SR",
+      "expected": "med_196169",
+      "rank": 1,
+      "top5": [
+        "med_196169"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Redidrop 500mg Tablet",
+      "expected": "med_196169",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Safexim 200mg Tablet",
+      "expected": "med_199672",
+      "rank": 1,
+      "top5": [
+        "med_199672"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Safexim 200mg",
+      "expected": "med_199672",
+      "rank": 1,
+      "top5": [
+        "med_199672"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Scabiped Cream",
+      "expected": "med_203175",
+      "rank": 1,
+      "top5": [
+        "med_203175"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Scabiped",
+      "expected": "med_203175",
+      "rank": 1,
+      "top5": [
+        "med_203175"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Swipan D 30mg/40mg Capsule SR",
+      "expected": "med_206678",
+      "rank": 1,
+      "top5": [
+        "med_206678"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Swipan D 30mg/40mg Capsule",
+      "expected": "med_206678",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Sarrato Tablet",
+      "expected": "med_210181",
+      "rank": 1,
+      "top5": [
+        "med_210181"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Sarrato",
+      "expected": "med_210181",
+      "rank": 1,
+      "top5": [
+        "med_210181"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "S Cef 125mg Tablet DT",
+      "expected": "med_213684",
+      "rank": 1,
+      "top5": [
+        "med_213684"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "S Cef 125mg Tablet",
+      "expected": "med_213684",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Tolcare 150mg Tablet SR",
+      "expected": "med_217187",
+      "rank": 1,
+      "top5": [
+        "med_217187"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Tolcare 150mg Tablet",
+      "expected": "med_217187",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Telispa-AMH Tablet",
+      "expected": "med_220690",
+      "rank": 1,
+      "top5": [
+        "med_220690"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Telispa-AMH",
+      "expected": "med_220690",
+      "rank": 1,
+      "top5": [
+        "med_220690",
+        "med_221961"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Trazole 200 Capsule",
+      "expected": "med_224193",
+      "rank": 1,
+      "top5": [
+        "med_224193"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Trazole 200",
+      "expected": "med_224193",
+      "rank": 1,
+      "top5": [
+        "med_224193"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Tecbeta 50mg Tablet",
+      "expected": "med_227696",
+      "rank": 1,
+      "top5": [
+        "med_227696"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Tecbeta 50mg",
+      "expected": "med_227696",
+      "rank": 1,
+      "top5": [
+        "med_227696"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Ursomeg 150mg Tablet",
+      "expected": "med_231199",
+      "rank": 1,
+      "top5": [
+        "med_231199"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Ursomeg 150mg",
+      "expected": "med_231199",
+      "rank": 1,
+      "top5": [
+        "med_231199"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Voglitor R 0.5/0.3 Tablet",
+      "expected": "med_234702",
+      "rank": 1,
+      "top5": [
+        "med_234702"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Voglitor R 0.5/0.3",
+      "expected": "med_234702",
+      "rank": 1,
+      "top5": [
+        "med_234702"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Vmox DF Eye Drop",
+      "expected": "med_238205",
+      "rank": 1,
+      "top5": [
+        "med_238205"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Vmox DF Eye",
+      "expected": "med_238205",
+      "rank": null,
+      "top5": []
+    },
+    {
+      "kind": "full_heading",
+      "query": "Woppi-DSR Capsule",
+      "expected": "med_241708",
+      "rank": 1,
+      "top5": [
+        "med_241708"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Woppi-DSR",
+      "expected": "med_241708",
+      "rank": 1,
+      "top5": [
+        "med_241708",
+        "med_242962",
+        "med_243692"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Xpred 30mg Tablet",
+      "expected": "med_245211",
+      "rank": 1,
+      "top5": [
+        "med_245211"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Xpred 30mg",
+      "expected": "med_245211",
+      "rank": 1,
+      "top5": [
+        "med_245211"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Zyolin Nasal Drops",
+      "expected": "med_248714",
+      "rank": 1,
+      "top5": [
+        "med_248714"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Zyolin Nasal",
+      "expected": "med_248714",
+      "rank": 1,
+      "top5": [
+        "med_248714"
+      ]
+    },
+    {
+      "kind": "full_heading",
+      "query": "Zilav M Oral Suspension",
+      "expected": "med_252217",
+      "rank": 1,
+      "top5": [
+        "med_252217"
+      ]
+    },
+    {
+      "kind": "short_heading",
+      "query": "Zilav M Oral",
+      "expected": "med_252217",
+      "rank": 1,
+      "top5": [
+        "med_252217"
+      ]
+    }
+  ]
+}

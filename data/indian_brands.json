@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Crocin Advance",
+    "form": "tablet",
+    "ingredients": [
+      [
+        "Paracetamol",
+        "500 mg"
+      ]
+    ],
+    "description": "Each tablet contains 500 mg of paracetamol.",
+    "use": "The Indian leaflet lists relief of pain and fever.",
+    "caution": "The leaflet warns that using another medicine containing paracetamol at the same time can harm the liver.",
+    "url": "https://www.crocin.com/content/dam/cf-consumer-healthcare/panadol/en_in/documents/Crocin%20advance.pdf#page=1",
+    "source": "Crocin India · leaflet, page 1, sections 2 and 4",
+    "market": "India"
+  },
+  {
+    "brand": "Crocin 650",
+    "form": "tablet",
+    "ingredients": [
+      [
+        "Paracetamol",
+        "650 mg"
+      ]
+    ],
+    "description": "Each tablet contains 650 mg of paracetamol.",
+    "use": "The Indian leaflet lists relief of pain and fever.",
+    "caution": "The leaflet warns that using another medicine containing paracetamol at the same time can harm the liver.",
+    "url": "https://www.crocin.com/content/dam/cf-consumer-healthcare/panadol/en_in/documents/Crocin%20650.pdf#page=1",
+    "source": "Crocin India · leaflet, page 1, sections 2 and 4",
+    "market": "India"
+  },
+  {
+    "brand": "PAN 20",
+    "form": "tablet",
+    "ingredients": [
+      [
+        "Pantoprazole",
+        "20 mg"
+      ]
+    ],
+    "description": "Each tablet contains the equivalent of 20 mg of pantoprazole. It has a coating that resists stomach acid.",
+    "use": "The Indian leaflet lists acid reflux and ulcers in the stomach or the first part of the small intestine.",
+    "caution": "The leaflet warns about allergy to ingredients in this product.",
+    "url": "https://www.alkemlabs.com/pdf/adverse/PAN.pdf#page=1",
+    "source": "Alkem Laboratories · PAN 20/40 leaflet, sections 2, 4.1 and 4.3",
+    "market": "India"
+  },
+  {
+    "brand": "PAN 40",
+    "form": "tablet",
+    "ingredients": [
+      [
+        "Pantoprazole",
+        "40 mg"
+      ]
+    ],
+    "description": "Each tablet contains the equivalent of 40 mg of pantoprazole. It has a coating that resists stomach acid.",
+    "use": "The Indian leaflet lists acid reflux and ulcers in the stomach or the first part of the small intestine.",
+    "caution": "The leaflet warns about allergy to ingredients in this product.",
+    "url": "https://www.alkemlabs.com/pdf/adverse/PAN.pdf#page=1",
+    "source": "Alkem Laboratories · PAN 20/40 leaflet, sections 2, 4.1 and 4.3",
+    "market": "India"
+  },
+  {
+    "brand": "PAN-D",
+    "form": "capsule",
+    "ingredients": [
+      [
+        "Pantoprazole",
+        "40 mg"
+      ],
+      [
+        "Domperidone",
+        "30 mg"
+      ]
+    ],
+    "description": "One capsule has two medicines. The pantoprazole pellets have a coating. The domperidone pellets release the medicine slowly.",
+    "use": "The Indian leaflet lists acid reflux, when stomach contents flow back into the food pipe.",
+    "caution": "The leaflet lists circumstances where these medicines must be avoided. A pharmacist can check the full list against your other medicines.",
+    "url": "https://www.alkemlabs.com/pdf/adverse/PAN%20D.pdf#page=1",
+    "source": "Alkem Laboratories · PAN-D leaflet, sections 2, 4.1 and 4.3",
+    "market": "India"
+  }
+]

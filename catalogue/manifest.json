@@ -1,0 +1,31 @@
+{
+  "inputs": {
+    "indian_medicines_complete.csv": "d4b9b58fc84a2aa89a9eddf8aba8536ef7544e32d47c9bca6f00c31a16fbc8ec",
+    "indian_medicines_rag_documents.jsonl": "77b881edc359852714a14f0e9f770766c07e8374d3929c61006a0a54ea73c981"
+  },
+  "database_sha256": "2a8fe48cb57c824da11d1d25b3362334cf2a564105f9578fe679475c6e2c495a",
+  "counts": {
+    "with_use": 53251,
+    "withheld_use": 200722,
+    "records": 253973,
+    "identity_scoped_passages": 111438
+  },
+  "parts": [
+    {
+      "file": "part-00.gz",
+      "sha256": "8991daad58e0faf0f56a4d5b478444f0f5e0fcbe9f4728a578c87f94b6a80a98"
+    },
+    {
+      "file": "part-01.gz",
+      "sha256": "bda72b95879a8b0946f234b66978bf069dd5f4aab14051528819813afd4c7386"
+    },
+    {
+      "file": "part-02.gz",
+      "sha256": "d96ce35df2cfb43199872a27821e60639ef6cbf73eac72a3de1c7f24ca541a4f"
+    },
+    {
+      "file": "part-03.gz",
+      "sha256": "7f22a8329b8076ddfbcdd46012ea6541ccf9d32098e725bf99f1018fa655053e"
+    }
+  ]
+}

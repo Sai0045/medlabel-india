@@ -1,0 +1,38 @@
+{
+  "fixture": "dolo-650.png",
+  "source_id": "med_58235",
+  "read": {
+    "page": 1,
+    "text": "Dolo 650 Tablet\nParacetamol 650 mg\nTeaching sample",
+    "method": "Apple Vision OCR"
+  },
+  "mode": "Local FLAN-T5 \u00b7 generated answer matched a complete source sentence \u00b7 displayed in plain language",
+  "selected_use": "Helps relieve pain and reduce fever (bukhar).",
+  "retrieved": [
+    {
+      "kind": "use",
+      "excerpt": "Dolo 650 Tablet is a medicine used to relieve pain and to reduce fever."
+    },
+    {
+      "kind": "use",
+      "excerpt": "It is used to treat many conditions such as headache, body ache, toothache and common cold."
+    },
+    {
+      "kind": "use",
+      "excerpt": "It works by inhibiting the release of certain chemical that cause pain and fever."
+    },
+    {
+      "kind": "effects",
+      "excerpt": "Stomach pain,Nausea,Vomiting"
+    },
+    {
+      "kind": "use",
+      "excerpt": "Helps relieve pain and reduce fever (bukhar).",
+      "source": "Patient Q&A \u00b7 med_58235 \u00b7 JSONL line 58235 \u00b7 CSV data row 58235 + same-product catalogue description"
+    }
+  ],
+  "model_context": [
+    "Dolo 650 Tablet is a medicine used to relieve pain and to reduce fever."
+  ],
+  "model_generated": "Dolo 650 Tablet is a medicine used to relieve pain and to reduce fever."
+}

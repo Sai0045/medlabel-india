@@ -1,0 +1,23 @@
+{
+  "repository": "Xenova/flan-t5-small",
+  "revision": "311454e83bc784267fd7eef5940ee854144abbec",
+  "license": "apache-2.0",
+  "base_model": "google/flan-t5-small",
+  "files": {
+    "decoder_model_quantized.onnx": {
+      "bytes": 58943318,
+      "sha256": "7f090cbd1281a9c896a070b424ceb18df45da6e78d16895a14c72387708db216",
+      "source": "onnx/decoder_model_quantized.onnx"
+    },
+    "encoder_model_quantized.onnx": {
+      "bytes": 35759127,
+      "sha256": "968ce399b8dcdfd4c36833db51e9f78f327f7272ee9e2777fc2b3c8693208e90",
+      "source": "onnx/encoder_model_quantized.onnx"
+    },
+    "tokenizer.json": {
+      "bytes": 2422164,
+      "sha256": "d7af4599a1914d04aaf44839418757f40ccca4c78033edeba369484978378335",
+      "source": "tokenizer.json"
+    }
+  }
+}

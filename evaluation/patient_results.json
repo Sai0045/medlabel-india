@@ -1,0 +1,109 @@
+{
+  "fixture": "cetzine-10.png",
+  "read": [
+    {
+      "page": 1,
+      "text": "Cetzine Tablet\nCetirizine 10 mg\nClassroom example",
+      "method": "Apple Vision OCR"
+    }
+  ],
+  "confirmed": "med_33942",
+  "cases": [
+    {
+      "scope": "med_33942",
+      "question": "What is this medicine commonly used for in India?",
+      "expected": "caused by allergies",
+      "answer": "Cetirizine helps relieve sneezing and a runny nose caused by allergies.",
+      "source": "GSK India \u00b7 Cetzine tablet, therapeutic indications",
+      "passed": true
+    },
+    {
+      "scope": "med_33942",
+      "question": "What are the common side effects?",
+      "expected": "Sleepiness",
+      "answer": "Sleepiness",
+      "source": "Patient Q&A \u00b7 med_33942 \u00b7 JSONL line 33942 \u00b7 CSV data row 33942",
+      "passed": true
+    },
+    {
+      "scope": "med_33942",
+      "question": "Does it help with a running nose?",
+      "expected": "caused by allergies",
+      "answer": "Cetirizine helps relieve sneezing and a runny nose caused by allergies.",
+      "source": "GSK India \u00b7 Cetzine tablet, therapeutic indications",
+      "passed": true
+    },
+    {
+      "scope": "med_1",
+      "question": "When should I take this medicine?",
+      "expected": "pharmacist",
+      "answer": "Check the directions on your prescription or ask your pharmacist when to take this exact medicine.",
+      "source": null,
+      "passed": true
+    },
+    {
+      "scope": "med_1",
+      "question": "Can I take this medicine before lunch or on an empty stomach?",
+      "expected": "pharmacist",
+      "answer": "Meal instructions vary by medicine. Check your pack leaflet or ask your pharmacist about food.",
+      "source": null,
+      "passed": true
+    },
+    {
+      "scope": "med_1",
+      "question": "What should I do if I miss a dose?",
+      "expected": "pharmacist",
+      "answer": "Missed-dose instructions vary. Check your pack leaflet or call your pharmacist for advice about your missed dose.",
+      "source": null,
+      "passed": true
+    },
+    {
+      "scope": "med_1",
+      "question": "Can pregnant or breastfeeding women take this medicine?",
+      "expected": "pharmacist",
+      "answer": "A doctor or pharmacist can check this medicine for your stage of pregnancy or breastfeeding.",
+      "source": null,
+      "passed": true
+    },
+    {
+      "scope": "med_1",
+      "question": "Can I drink alcohol while taking this medicine?",
+      "expected": "pharmacist",
+      "answer": "Ask a pharmacist to check this exact medicine before drinking alcohol.",
+      "source": null,
+      "passed": true
+    },
+    {
+      "scope": "med_1",
+      "question": "What are the severe health risks, warnings, and interactions?",
+      "expected": "pharmacist",
+      "answer": "A pharmacist can check the warnings for this pack against your allergies and other medicines.",
+      "source": null,
+      "passed": true
+    },
+    {
+      "scope": "med_30",
+      "question": "What is this medicine commonly used for in India?",
+      "expected": "We could not confirm what this exact pack is used for. Check its leaflet or ask a pharmacist.",
+      "answer": "We could not confirm what this exact pack is used for. Check its leaflet or ask a pharmacist.",
+      "source": null,
+      "passed": true
+    },
+    {
+      "scope": "uploaded image",
+      "question": "What is this medicine commonly used for in India?",
+      "expected": "I couldn\u2019t find that answer in the selected source.",
+      "answer": "I couldn\u2019t find that answer in the selected source.",
+      "source": null,
+      "passed": true
+    },
+    {
+      "scope": "uploaded image",
+      "question": "What is the strength?",
+      "expected": "10 mg",
+      "answer": "Cetirizine 10 mg",
+      "source": "Uploaded file \u00b7 page 1 \u00b7 line 2",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "inputs": {
+    "indian_medicines_qa_patient_complete.csv": "27f9195d91fb344c9e0d460f0fb011366d1b1bc678253a121fc1eae402757032",
+    "indian_medicines_rag_patient_documents.jsonl": "e6f500b0379ad070b6e251d80e72f184e944faf6593aade022551e2f8cf6d7af",
+    "indian_medicines_rag_patient_documents.jsonl.gz": "b8eb7421a5c03edcfd02ee46f5b4c67c2efb7edeea7c00e6c4bafbe55dcc6f35"
+  },
+  "counts": {
+    "records": 253973,
+    "checked_questions": 2031784,
+    "ingredient_breakdowns": 252311,
+    "simplified_uses": 185,
+    "official_product_uses": 5,
+    "eligible_effect_lists": 36339,
+    "printed_ingredient_candidates": 2695
+  },
+  "questions": {
+    "use": "What is this medicine commonly used for in India?",
+    "time": "When should I take this medicine?",
+    "food": "Can I take this medicine before lunch or on an empty stomach?",
+    "missed": "What should I do if I miss a dose?",
+    "pregnancy": "Can pregnant or breastfeeding women take this medicine?",
+    "alcohol": "Can I drink alcohol while taking this medicine?",
+    "effects": "What are the common side effects?",
+    "risks": "What are the severe health risks, warnings, and interactions?"
+  },
+  "database_sha256": "82f562a2c6f905c4d2507d25d6df8255cb8b71cb5ba151d569ea123d2b16d8b3"
+}
