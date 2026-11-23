@@ -416,7 +416,7 @@ def generate_document():
         ("Application Codename", "MedLabel India (medlabel-india)"),
         ("Student Author & PRN", "Sairaj Abhale (PRN: 2124UMLM2027)"),
         ("GitHub Repository", "https://github.com/Sai0045/medlabel-india"),
-        ("Streamlit Live Web App", "https://medlabel-india.streamlit.app"),
+        ("Streamlit Live Web App", "https://sai0045-medlabel-india-app-zqlp4s.streamlit.app/"),
         ("Streamlit 1-Click Deploy", "https://share.streamlit.io/deploy?repository=Sai0045/medlabel-india&branch=main&mainModule=app.py"),
         ("Local Language Model", "FLAN-T5-small (Quantized ONNX Engine, CPU Execution)"),
         ("Catalogue Reference", "253,973 verified Indian medicines + Gazette of India Schedule I (459 entries)")
@@ -925,7 +925,7 @@ def generate_document():
         ("5. Retrieval Pipeline", "14 Marks", "Chapter 5 (Section 5.2): Show SQLite FTS5 BM25 search, candidate ranking, and pack confirmation logic."),
         ("6. LLM & Generation", "11 Marks", "Chapter 5 (Section 5.2): Demonstrate local FLAN-T5 inference on CPU; compare model input, output, and verified source text."),
         ("7. Evaluation and Testing", "15 Marks", "Chapter 6: Present 75 passed tests, 918 Gazette queries, Recall@5 of 90.9%, and explain the 3 missed warning queries."),
-        ("8. Application and UI", "8 Marks", "Chapter 4: Live interactive demonstration on Streamlit Community Cloud (https://medlabel-india.streamlit.app)."),
+        ("8. Application and UI", "8 Marks", "Chapter 4: Live interactive demonstration on Streamlit Community Cloud (https://sai0045-medlabel-india-app-zqlp4s.streamlit.app/)."),
         ("9. Implementation Quality", "6 Marks", "Chapter 3 (N05-N09): Show modular Python code, scan supervisor, 768 MiB memory limit, and pinned requirements."),
         ("10. Documentation", "6 Marks", "Chapters 1-8, SRS specifications, architecture diagrams, and comprehensive viva preparation notes.")
     ]
@@ -945,7 +945,7 @@ def generate_document():
     add_heading_2(doc, "B.1 Official Source Repository & Live Deployment URLs")
     add_body_p(doc, "All source code, models, test fixtures, and documentation are publicly hosted and deployable:")
     add_bullet_p(doc, "GitHub Repository: ", "https://github.com/Sai0045/medlabel-india")
-    add_bullet_p(doc, "Streamlit Live Application: ", "https://medlabel-india.streamlit.app")
+    add_bullet_p(doc, "Streamlit Live Application: ", "https://sai0045-medlabel-india-app-zqlp4s.streamlit.app/")
     add_bullet_p(doc, "1-Click Streamlit Cloud Deploy: ", "https://share.streamlit.io/deploy?repository=Sai0045/medlabel-india&branch=main&mainModule=app.py")
 
     add_heading_2(doc, "B.2 Local Setup Instructions")

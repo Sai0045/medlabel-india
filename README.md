@@ -1,6 +1,6 @@
 # 🏥 MedLabel India
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Sai0045/medlabel-india&branch=main&mainModule=app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sai0045-medlabel-india-app-zqlp4s.streamlit.app/)
 ![Python Version](https://img.shields.io/badge/python-3.12-blue.svg)
 ![Framework](https://img.shields.io/badge/framework-Streamlit-FF4B4B.svg)
 ![Inference Engine](https://img.shields.io/badge/inference-ONNX%20Runtime%20(CPU)-005CED.svg)
@@ -38,9 +38,13 @@
 
 ## 🚀 Live Demo & Deployment
 
-### Run on Streamlit Community Cloud
+### 🌐 Live Public Application
+The application is deployed and live on Streamlit Community Cloud:
+👉 **[Launch MedLabel India Live App](https://sai0045-medlabel-india-app-zqlp4s.streamlit.app/)**
 
-You can deploy and run your own instance directly on Streamlit Community Cloud with a single click:
+### 📦 Run or Fork on Streamlit Community Cloud
+
+You can also deploy and run your own instance directly on Streamlit Community Cloud with a single click:
 
 [![Deploy with Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Sai0045/medlabel-india&branch=main&mainModule=app.py)
 
